@@ -11,3 +11,9 @@
   margin: 0 auto;
   padding: 0 20px;
 }
+
+.item_list {
+  margin: 10px 0;
+  font-size: 20px;
+  padding: 0 15px;
+}
